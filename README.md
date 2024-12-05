@@ -35,21 +35,24 @@ Open your terminal and run the following command to clone the repository:
 
 git clone https://github.com/yousufali3/Wyb-Tic-Tac-Toe-game-
 
+```
+
 
 
 ### 3. Install Dependencies
 
 Run the following command to install the required dependencies:
 
-bash
+```bash
 
 npm install
-
+```
 
 ### 4. Run the Development Server
 
 Start the development server with the following command:
 
-bash
+```bash
 
 npm run dev
+```
