@@ -31,7 +31,7 @@ Follow these steps to set up and run the project locally:
 
 Open your terminal and run the following command to clone the repository:
 
-bash
+```bash
 
 git clone https://github.com/yousufali3/Wyb-Tic-Tac-Toe-game-
 
